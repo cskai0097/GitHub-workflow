@@ -1,4 +1,5 @@
 # GitHub-workflow
 "To Improve is to change"
 "There is nothing permanent, except change"
-"CHRIS S WAS HERE"
+"To Improve is to change"
+change by Chris
